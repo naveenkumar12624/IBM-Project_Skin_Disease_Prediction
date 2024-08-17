@@ -35,7 +35,7 @@ In the future, the model may provide medication suggestions for users to treat t
 ![img](Screenshot%202023-10-22%20015200.png)
 
 <p align='center'>
-  <img src="Input_img.jpg" height="500px" width="900px">
+  <img src="Input_img.jpg" height="300px" width="600px">
 </p>
 
 ## Output:
